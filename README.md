@@ -69,3 +69,8 @@ On the back-end,
 - add frameworks and packages in `package.json`
 - safely store app secrets in `.env` (nobody can see this but you and people you invite)
 - app uses node8 by default, it is possible to update the version of nodejs used: https://glitch.com/help/node/
+
+updates
+1) refers URL for user and userprofiles
+2) post child form data and processes at server 
+3) at server side checks whether posted child userid exists or not
